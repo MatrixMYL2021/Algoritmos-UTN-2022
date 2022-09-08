@@ -60,7 +60,7 @@ int dato_for_ejercicio2;
 
 for(int x=0;x<8;x++){if (masproductos[x]>mayor) {mayor=masproductos[x];}} //buscar mayor cant de repeticiones
 for(int x=0;x<8;x++){if(mayor==masproductos[x]) {dato_for_ejercicio2=x;}} //buscar posicion id cliente del que tuvo mas cant de repeticiones > 13000kg a usar en el ejercicio 2
-//ejercicio 3 hecho!
+//ejercicio 1 hecho!
 //-------------------------------------------
 
 cout<< '\n';
